@@ -1,0 +1,319 @@
+*
+{
+  margin: 0px;
+}
+.div1 {
+    background-image: url('main.jpg');
+    height: 100vh;
+    width: 100%;
+    overflow: auto;
+  }
+  header
+  {
+  margin-top: 30px; 
+  }
+  .head
+  {
+    
+    display: inline;
+    font-family: sans-serif;
+    opacity: 0.8;
+    
+  }
+  .div1 a{
+    
+    color: whitesmoke;
+    text-decoration: none;
+  
+  }
+  .div1 h1
+  {
+    margin-left: 20px;
+    font-family: "Quicksand", "sans-serif";
+  }
+  .nav1
+  {
+    float: right;
+  }
+  .li1
+  {
+    display: inline;
+    margin-right: 30px;
+    font-size: 25px;
+  }
+  .header2{
+    margin-top: 230px;
+  }
+  .header2 h1{
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 80px;
+    color: white;
+  }
+  .header2 p
+  {
+    margin-bottom: 20px;
+    text-align:center;
+    font-size: 40px;
+    color:white;
+  }
+.header2 .container {
+        margin-top: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      button {
+        padding: 10px 20px;
+        margin: 0;
+        font-size: 40px;
+        background-color: #3f51b5;;
+        border-radius: 10%;
+      }
+      .div3{
+margin-top: 100px;
+height: 100vh;
+      }
+      .div3 h1
+      {
+        text-align: center;
+        font-family: sans-serif;
+        font-size: 40px;
+        opacity: 0.6;
+        margin-bottom: 20px;
+      }
+      .temp p{
+        max-width: 775px;
+        line-height: 2;
+        padding: 0 20px;
+        padding-top: 0px;
+        padding-right: 20px;
+        padding-bottom: 0px;
+        padding-left: 395px;
+         margin-bottom: 30px; 
+        text-align: center;
+        font-size: 19px;
+      }
+      .div3 .unique
+      {
+        margin-bottom: 40px;
+      }
+      .temp{
+        margin-bottom: 40px;
+      }
+      .div3 .fa
+      {
+        margin-block-start: 0em;
+        font-size: 7em;
+        color: blue;
+      }
+      .div3 ul{
+        margin: 0 0 0 0px;
+        padding: 0 0 0 0px;
+        list-style-type: none;
+      }
+      .div4 h4
+      {
+        font-size: 30px;
+      
+      }
+      .div3 li
+      {
+        padding: 0 0 0 0px;
+        flex-basis: 50%;
+        text-align: center;
+        display: inline-block;
+      }
+      .hr1
+      {
+        width: 20%;
+        margin: 0 40% 0 40%;
+        height: 3px;
+        background-color: #3f51b5;
+      }
+      .list2
+      {
+     width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none;
+    margin: 100px 0 100px 0;
+      }
+      .list2 li
+      {
+        height: 350px;
+	      padding: 20px;
+        background-clip: content-box;
+        background-size: cover;
+       background-position: center;
+      }
+      .list2 .photo1
+      {
+        flex-basis: 30%;
+      }
+      .list2 .photo2
+      {
+        flex-basis: 60%;
+      }
+     
+      .div4
+      {
+        padding-top: 40px;
+        background-color: #f5f5f5;
+        width: 100%;
+        padding-bottom: 60px;
+      
+      }
+      
+      .div4 .tp1{
+        text-align: center;
+        width: 60%;
+        margin-left: 20%;
+        font-size: 22px;
+        line-height: 1.8; 
+        padding-bottom: 20px;
+      } 
+      .div4 h4{
+        padding: 40px 0 40px 0;
+      }
+      .div4 h2{
+        font-size: 50px;
+        text-align: center;
+        margin-top: 70px;
+        padding-bottom: 60px;
+        opacity: 0.8;
+      }
+      .div4 .photo1{
+        margin-left:0 0 0 0px;
+    }
+    .div4 .p1{
+      text-align: center;
+      width: 70%;
+      margin-left: 10%;
+      font-size: 25px;
+      line-height: 2; 
+    }
+    .fa
+    {
+      padding-top: 125px;
+    }
+      .div4 .grid
+      {
+        display: flex;
+        flex-wrap: wrap;
+        padding-top: 20px;
+             }
+      
+      .div5 h2{
+        margin: 80px 0 25px 0;
+        font-size: 50px;
+        text-align: center;
+      }
+      .div5 hr, .div6 hr
+      {
+        margin-bottom: 50px;
+      }
+      .div5 .quote{
+        text-align: center;
+        width: 60%;
+        margin-left: 20%;
+      margin-right: 20%;
+      margin-bottom: 0px;
+        font-size: 30px;
+        line-height: 1.5; 
+        opacity: 0.8;
+      }
+      .div5 .q
+      {
+        text-align: center;
+        font-size: 25px;
+        padding-top: 25px;
+        padding-bottom: 40px;
+      }
+      .div6{
+        display: inline-block;
+        width: 100%;
+        background-color: #f5f5f5;
+        padding-bottom: 100px;
+      }
+      .div6 p{
+        text-align: center;
+        width: 60%;
+        margin-left: 20%;
+      margin-right: 20%;
+      margin-bottom: 40px;
+        font-size: 26px;
+        line-height: 1.5; 
+        opacity: 1;
+
+      }
+      input
+      {
+        height: 60px;
+        width: 30%;
+        margin-left: 20%;
+      }
+       .button {
+        padding: 18px 48px;
+        margin: 5%;
+        opacity: 1;
+        color: white;
+        background-color: #3f51b5;;
+        
+      }
+      .div6 h1{
+        margin-top: 80px;
+      }
+
+      .div7
+      {
+        height: 100px;
+        width: 100%;
+        background-color: #607d8b
+      }
+      .div7 ul
+      {
+        margin-top: 40px;
+        padding-left: 0px;
+        margin-left: 0px;
+        display: inline-block;
+      }
+      .div7 li
+      {
+        list-style-type: none;
+        display: inline-block;
+        margin-left: 10px;
+      }
+      .div7 p{
+        display: inline-block;
+        padding: 0 0 0 0px;
+        margin-left: 40px;
+        margin-right: 40px;
+      }
+      .div7 .fa-brands
+      {
+        float: right;
+        margin-left: 20px;
+         font-size: 2em;
+      }
+      .div7 .lst
+      {
+        margin-left: 280px;
+        float: right;
+      }
+      @media (max-width: 1100px)
+      {
+.div7 {
+    flex-direction: column;
+}
+      }
+
+
+
+.div5 .qote
+{
+  font-size: 20px;
+ 
+}
+      
